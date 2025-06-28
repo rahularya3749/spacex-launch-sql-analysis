@@ -50,16 +50,6 @@ This project demonstrates SQL-powered exploration of SpaceX launch data using a 
 
 ---
 
-
-## 📊 Sample Queries
-
-- Total payload mass launched by NASA (CRS)
-- Boosters with highest payloads
-- First successful ground pad landing
-- Missions launched from sites starting with `"CCA"`
-- Average payloads per booster version
-- Landings between 2010–2017 by type
-
 ## 🧠 Skills Demonstrated
 
 - 🗃️ SQL query writing & filtering  
