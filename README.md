@@ -54,10 +54,12 @@ This project demonstrates SQL-powered exploration of SpaceX launch data using a 
 
 - 🗃️ SQL query writing & filtering  
 - 📊 Aggregations, sorting, and conditional grouping  
-- 🧩 CASE WHEN logic for labeling and categorization  
+- 🧩 `CASE WHEN` logic for labeling and categorization  
 - 📆 Date parsing and filtering by time ranges  
-- 📓 Jupyter Notebook integration for SQL workflows  
+- 📓 Jupyter Notebook integration for SQL workflows using `%load_ext sql` and `%sql` magic  
 - 🧹 Basic data cleaning and preprocessing with pandas  
+- 🔗 SQL database setup with Python using `sqlite3` and pandas `.to_sql()` method for seamless transition from CSV to SQL
+
 
 ## 👤 Author
 
