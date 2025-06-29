@@ -1,6 +1,10 @@
 # sql-spacex
 SQL-powered analysis of SpaceX launch data using SQLite in a Python environment. Explore payloads, landing outcomes, and booster performance through SQL queries and pandas.
 
+![Dashboard](spacex_dash.png)
+
+> 📊 *Interactive dashboard built in Power BI showcasing payload mass, landing outcome, booster version comparison with Launch site.*
+
 # 🚀 SpaceX Launch SQL Analysis
 
 This project demonstrates SQL-powered exploration of SpaceX launch data using a local SQLite database and Jupyter Notebook. It combines SQL querying with Python's pandas and SQLite to uncover insights into SpaceX’s missions, including launch sites, booster performance, payloads, and landing outcomes.
